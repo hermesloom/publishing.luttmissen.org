@@ -14,8 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Luttmissen Publishing",
-  description:
-    "Translations of groundbreaking works between German and English",
+  description: "Translations of groundbreaking literary works",
 };
 
 export default function RootLayout({
