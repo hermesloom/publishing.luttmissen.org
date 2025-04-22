@@ -12,9 +12,9 @@ export default function Home() {
             </h1>
             <p className="text-xl md:text-2xl text-gray-300 mb-8">
               Luttmissen Publishing stands for rediscoveries and
-              experimentation, for ancient wisdom phrased in modern language,
-              for the works which more people should know about, and for
-              knowledge which has always been within us.
+              experimentation, for ancient wisdom phrased in modern systems
+              language, for the works which more people should know about, and
+              for knowledge which has always been within us.
             </p>
             <div className="inline-block">
               <Link
